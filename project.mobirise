@@ -1068,6 +1068,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            }
+          },
           "_anchor": "header1-1d",
           "_params": {
             "parallax": true,
@@ -1090,12 +1095,7 @@
           },
           "title": "Krijnen in de kijker",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#b8312f"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -1317,6 +1317,15 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1385,16 +1394,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-1e",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "30px"
-            },
-            "P": {
-              "font-size": "18px",
-              "text-align": "left"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -1424,6 +1424,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
           "_anchor": "msg-box5-1g",
           "_params": {
             "imageSize": "41",
@@ -1470,13 +1476,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Krijnen keukens draagt graag zijn steentje bij voor het goede doel. Zo maakten we voor Moeders voor moeders vzw een nieuwe werkkeuken en kasten om ingezamelde kledij in te stockeren. Nu vragen we echter jullie hulp om deze kasten verder gevuld te krijgen! Heb je nog materiaal en producten die in goede staat zijn en een tweede leven verdienen, breng ze dan bij ons binnen op een van de inzamelmomenten en dan bezorgen wij deze voor u aan Moeders voor Moeders.<br><br>Naar wat zijn we op zoek?<br><br>Kinderkleding t.e.m. 14 jaar (jasjes, ondergoed, sokken,slaapkledij…)<br>Kinderschoenen in goede staat<br>Alle babymateriaal vanaf de geboorte t.e.m. 3 jaar<br>Schoolgerief in goede staat<br>Beddengoed voor zowel kinderbedjes als 1– en 2– persoonsbedden<br>Bad– en keukenlinnen<br>Zwangerschapskledij<br>Verzorgingsproducten (shampoo, doucheproducten, maandverband,…)<br> <br><br>Waar en wanneer?<br><br>Binnenbrengen van materiaal kan in ons atelier (Energieweg 9, Malle) op volgende momenten (steeds tussen 8u ‘s morgens en 16u ‘s avonds):<br><br>Woensdag 1 maart<br>Woensdag 5 april<br>Woensdag 3 mei<br>Woensdag 7 juni.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
